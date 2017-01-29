@@ -1,7 +1,6 @@
 # Getting and Cleaning Data: Course Project
 
-Mick Sheahan (R3dCobbler)
-January 2017
+Mick Sheahan, January 2017
 
 ### Goal
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. 
