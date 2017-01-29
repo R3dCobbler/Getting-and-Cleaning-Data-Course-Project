@@ -11,7 +11,6 @@ A full description of the source data is available at the site where the data wa
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Feature Selection 
-=================
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. 
