@@ -1,19 +1,19 @@
 # Getting and Cleaning Data: Course Project
 
-## Mick Sheahan (R3dCobbler)
-## January 2017
+### Mick Sheahan (R3dCobbler)
+### January 2017
 
-## Goal
+### Goal
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. 
 The goal is to prepare tidy data that can be used for later analysis. 
 
-## Deliverables 
+### Deliverables 
 Submit the following:
 1) a tidy data set as described below, 
 2) a link to a Github repository with the R script called run_analysis.R for performing the analysis, 
 3) a code book that describes the variables, the data, and any transformations or work  performed to clean up the data called CodeBook.md.
 
-## Background
+### Background
 One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 A full description is available at the site where the data was obtained:
@@ -24,7 +24,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-## Brief
+### Brief
 
 Create one R script called run_analysis.R that does the following.
 
