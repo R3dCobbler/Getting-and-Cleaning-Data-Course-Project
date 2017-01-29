@@ -117,7 +117,7 @@ The numbers need to be replaced with the actual description, so the variable nee
 
 ### Step 4. Appropriately label the data set with descriptive variable names.
 
-Examine the names of each variable and identify those that need to be replaced with more descriptive names
+Examine the names of each variable and identify those that need to be replaced with more descriptive names.
 Use the gsub function to replace names.
 
 ### Step 5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
