@@ -102,10 +102,15 @@ The activites relate to those performed by each person.
 The details are found in the "activityLabels"variable. 
 
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING
 
 The numbers need to be replaced with the actual description, so the variable needs to be changed to a character variable.
